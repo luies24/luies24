@@ -11,9 +11,8 @@ I'm a Full Stack Software Developer  👨‍💻
 - 📫 How to reach me: [Gmail](mailto:garciale308@gmail.com)
 
 
-### Some Stats About Luis (Public Only)
 <p align="center" >
-<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24&show_icons=true&theme=merko"  > </p>
+<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24&show_icons=true&theme=tokyonight"> </p>
 
 
 <p align="center">
