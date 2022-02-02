@@ -1,4 +1,3 @@
-### Hello there 👋
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
 
@@ -10,12 +9,12 @@ I'm a Full Stack Software Developer  👨‍💻
 - 🔭 I’m currently working on an ecommerce website
 - 🌱 I’m currently learning about Data Structures and Algorithms 
 - 💬 Ask me about Tech, Programming, or Anime!
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png)](mailto:garciale308@gmail.com)
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge]](mailto:garciale308@gmail.com)
 
 
 ### Some Stats About Luis (Public Only)
 <p align="center" >
-<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24&show_icons=true&theme=merko"  > </p>
 
 
 <p align="center">
