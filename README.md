@@ -9,7 +9,7 @@ I'm a Full Stack Software Developer  👨‍💻
 - 🔭 I’m currently working on an ecommerce website
 - 🌱 I’m currently learning about Data Structures and Algorithms 
 - 💬 Ask me about Tech, Programming, or Anime!
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge]](mailto:garciale308@gmail.com)
+- 📫 How to reach me: &nbsp;&nbsp;[Gmail Badge](mailto:garciale308@gmail.com)
 
 
 ### Some Stats About Luis (Public Only)
