@@ -12,7 +12,7 @@ I'm a Full Stack Software Developer  👨‍💻
 
 
 <p align="center" >
-<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24&show_icons=true&theme=tokyonight"> </p>
+<img alt="Luis's github stats" src="https://github-readme-stats.vercel.app/api?username=luies24&show_icons=true&theme=nightowl"> </p>
 
 
 <p align="center">
